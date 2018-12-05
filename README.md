@@ -1,5 +1,5 @@
 # PyxelJSON
-Read Pyxel JSON levels with java and gson. > Without boliderplate
+Read Pyxel JSON levels with java and gson. > Without boilerplate
 
 ```java
 PyxelTileMap map = PyxelTileMap.load(new File("./assets/map01.json"));
